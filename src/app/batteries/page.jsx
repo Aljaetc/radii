@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <section>
-      <h1>Home page</h1>
+      <h1>Battaries</h1>
     </section>
   );
 }
